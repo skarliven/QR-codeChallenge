@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [qr-code-challenge-64h41q1xo-skarliven.vercel.app](https://your-live-site-url.com)
+- Live Site URL: [qr-code-challenge-64h41q1xo-skarliven.vercel.app](https://qr-code-challenge-lovat-zeta.vercel.app/)
 
 ## My process
 
